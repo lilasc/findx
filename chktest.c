@@ -3,6 +3,7 @@
 #include <time.h>
 #include <fnmatch.h>
 
+// insert one comment
 const char* test_type[] =
 {
     "-atime",
